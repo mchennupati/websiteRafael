@@ -27,14 +27,14 @@ export default function App() {
         src="https://cdn2.unrealengine.com/battle-pass-chapter-2-season-6-1920x1080-dc8eb73dc494.jpg"
         alt="fortnite"
       />
-      {/* <iframe
+      <iframe
         width="420"
         height="315"
-        src="https://www.youtube.com/watch?v=9yCFCxJk5hE"
+        src="https://www.youtube.com/embed/8JfnfLGLmxw"
         title="MineCraft"
       >
         Ronald Omg !
-      </iframe> */}
+      </iframe>
     </div>
   );
 }
