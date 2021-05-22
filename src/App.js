@@ -31,6 +31,8 @@ export default function App() {
         width="420"
         height="315"
         src="https://www.youtube.com/embed/8JfnfLGLmxw"
+        frameborder="0"
+        allowfullscreen
         title="MineCraft"
       >
         Ronald Omg !
