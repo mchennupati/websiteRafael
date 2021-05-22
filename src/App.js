@@ -21,7 +21,20 @@ export default function App() {
       <a href="https://www.nintendo.com" target="_blank" rel="noreferrer">
         {" "}
         Nintendo{" "}
-      </a>
+      </a>{" "}
+      <br />
+      <img
+        src="https://cdn2.unrealengine.com/battle-pass-chapter-2-season-6-1920x1080-dc8eb73dc494.jpg"
+        alt="fortnite"
+      />
+      {/* <iframe
+        width="420"
+        height="315"
+        src="https://www.youtube.com/watch?v=9yCFCxJk5hE"
+        title="MineCraft"
+      >
+        Ronald Omg !
+      </iframe> */}
     </div>
   );
 }
